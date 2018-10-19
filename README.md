@@ -39,5 +39,8 @@ To exit/close the executable, press `q` in the keyboard, or `Ctrl + C` in the te
 
 ## Tips
 
+You have also a list of usefull commands to list available webcam devices and to know info about them in [/commands/webcam_commands.md](/commands/webcam_commands.md)
+
+Other usefull links:
 - https://wiki.archlinux.org/index.php/webcam_setup
 - http://www.linuxintro.org/wiki/Set_up_a_Webcam_with_Linux

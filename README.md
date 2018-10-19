@@ -7,6 +7,7 @@ This project uses `OpenCV` library to open, read and show image data from a webc
 - `C++`
 - `libopencv-dev`
 - `CMake`
+- **A webcam connected to the device**
 
 ```bash
 $ sudo apt-get install g++ cmake libopencv-dev
@@ -16,9 +17,12 @@ $ sudo apt-get install g++ cmake libopencv-dev
 
 - Make sure you have installed all dependencies showed in the previous section.
 
+- Clone this project
+
 - Create a `build` folder and compile the project
 
 ```bash
+$ git clone git@github.com:MarcReniuSanchez/webcam_capture.git .
 $ mkdir build && cd build
 $ cmake ..
 $ make

@@ -22,7 +22,7 @@ $ sudo apt-get install g++ cmake libopencv-dev
 - Create a `build` folder and compile the project
 
 ```bash
-$ git clone git@github.com:MarcReniuSanchez/webcam_capture.git .
+$ git clone git@github.com:MarcReniuSanchez/webcam_capture.git && cd webcam_capture
 $ mkdir build && cd build
 $ cmake ..
 $ make
